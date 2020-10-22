@@ -1,4 +1,4 @@
-#Full Stack Solution
+Full Stack Solution
 
 The Problem Description is to Develop a program, that simulates E-COMMERCE Shopping-Cart :
    
@@ -9,7 +9,7 @@ The Problem Description is to Develop a program, that simulates E-COMMERCE Shopp
    - Displays an accurate detailed bill summary.
    - User-friendly interfece which provides perfect user shopping journey within the website.
    
-   ** About The Solution **
+   **About The Solution**
   'Full Stack' solution which focuses on providing accurate results with a User-friendly interface :
  
    - Products selected by determining the desired quantity of each one (any product with no quantity entered it will be assumed as not selected and its quantity = 0 ).
