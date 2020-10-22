@@ -1,0 +1,231 @@
+
+
+.summary-section{
+	height: auto;
+	background-color: 
+    rgb(210, 72, 6,.5);
+   max-width: 22% !important;
+	padding: 17px;
+}
+
+.table-head-titles{
+	color: #d24806;
+    font-family: 'LabGrotesque';
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+}
+	
+
+.order-table-img img{
+	width: 100%;
+	height: 150px;
+}
+
+
+.td-row{
+    margin: 0px !important;
+	min-height: 137px;	
+}
+
+
+.cart-section{
+	width: 100% !important;
+	margin: auto !important;
+}
+
+
+.order-table-item-desc{
+	 color: #323232;
+	 font-size: 17px;
+     font-family: 'Karla', sans-serif; 
+	 text-transform: capitalize;
+     font-weight: 700;
+}
+
+
+.order-item-price::before{
+	content: "price:";
+	font-size: 15px;
+    color: #969696;
+    font-weight: 300;
+    margin-right: 0
+}
+
+
+
+.table-item-row{
+	min-height: 137px;
+}
+
+
+
+.order-item-price{
+	font-size: 13px;
+    color: #d24806;
+	display: inline;
+}
+
+
+.old-price{
+    display: inline;
+	text-decoration-line: line-through;
+	font-size: 13.5px;
+	font-weight: 400;
+    color: #969696;
+}
+
+
+.table-quantity{	
+	width: 130px;
+}
+
+
+.base-price{
+	font-size: 1.2rem;
+	font-size: 16px;
+    line-height: 1.67;
+    text-decoration: line-through;
+    color: #323232;
+    font-family: 'LabGrotesque';
+    font-weight: 700 !important;
+}
+
+
+.total-disc{
+	width: 170px;
+	text-align: center;
+}
+
+
+.new-price-prom{
+	color: #d24806;
+	font-size: 1.7rem;
+	font-size: 20px;
+    line-height: 1.18;
+    font-weight: 600;
+    display: block;
+	margin-bottom: 3px;
+}
+
+
+.discount-visible{
+	    margin-top: 5.5px;
+	    margin: 8px 0;
+}
+
+
+.promotion{
+	
+	 font-size: 1.1rem;
+     text-transform: uppercase;
+	 color: #d24806;
+	 display: inline;
+}
+	
+.precentage{
+     background-color: #d24806;	
+	 color: #fff;
+     padding: 0 5.5px;
+     margin-left: 1px;
+	 display: inline;
+}
+	
+
+
+.checkout-btn{	
+	width: 100%;
+	color: #d24806;
+    margin: auto;
+	border: 2px solid #d24806;
+	padding: 14px 10px;
+	font-weight: 600;
+	background-color: #d24806 !important; 
+	color: white
+}
+
+
+
+.checkout-btn:hover{
+	background-color: white !important;	
+	color: #d24806;
+}
+
+
+.summary-titles{
+    color: #d24806;
+    font-weight: 600;
+}
+
+
+.summary-content h3{
+    font-weight: 600;
+	font-family: 'Karla', sans-serif;
+}
+
+
+.cart-section h2{
+     color: rgb(36,32,32);
+	 font-family:  "Unica One" sans-serif !important;
+     font-weight: 400;
+     letter-spacing: 0.1em;
+     text-transform: uppercase;
+     display: none;
+}
+
+
+
+.update-table-btn{
+	background-color: #d24806;
+	color: white;
+	font-size: 0.8125em;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 13px 40px;
+    transition: color 0.1s;
+	text-align: center;
+	font-size: 16px;
+    font-family: "Karla",sans-serif;
+    line-height: 1.375;	
+	border: 1px solid transparent;
+}
+
+
+.update-table-btn:hover{
+    color: white;
+}
+
+
+.summary-prices{
+	
+	font-size: 16px;
+    line-height: 1.67;
+    text-decoration: underline;
+    color: #323232;
+    font-family: 'LabGrotesque';
+    font-weight: 700 !important;
+}
+
+
+
+.bold{
+	font-weight: 600;
+}
+
+
+.offer{
+	 color: #d24806;
+	 font-family: 'Karla', sans-serif;
+     font-weight: bolder;
+     font-size: 13px;	
+}
+
+.cleaning-title{
+	font-weight: 700;
+	font-size: 11px;
+	margin-top: 7px;
+	margin-left: 2px;
+}
+
